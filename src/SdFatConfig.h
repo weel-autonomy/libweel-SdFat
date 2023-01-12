@@ -78,7 +78,7 @@
  * constructors SdFat(SPIClass* spiPort) and SdFatEX(SPIClass* spiPort).
  */
 #ifndef USE_STANDARD_SPI_LIBRARY
-#define USE_STANDARD_SPI_LIBRARY 0
+#define USE_STANDARD_SPI_LIBRARY 2
 #endif
 //------------------------------------------------------------------------------
 /**
